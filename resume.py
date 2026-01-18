@@ -165,6 +165,8 @@ st.markdown("---")
 st.markdown("""
 <div style='text-align: center'>
     <p>Built with LangChain 🦜🔗 and Streamlit</p>
-    <p style='font-size: 0.8em; color: gray;'>Remember: Always review and verify the tailored resume before submitting!</p>
+</div>
+<div style='text-align: center; font-weight: bold;'>
+    Built by Aayush Panchal
 </div>
 """, unsafe_allow_html=True)
